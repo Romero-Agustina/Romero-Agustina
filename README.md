@@ -1,16 +1,20 @@
-### Hi there 👋
+# *Hello stranger I'm **Agustina Romero**, from Argentina 🇦🇷💙*
 
-<!--
-**Romero-Agustina/Romero-Agustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *I'm studying to be an amazing Fullstack developer*
 
-Here are some ideas to get you started:
+I am currently studying the second year of a **"Licenciatura en Sistemas"** in the *UNER* (Universidad Nacional de Entre Ríos). I am also learning about programming in a self-taught way and through a *Fullstack bootcamp* taught by Guillermo Rodas.
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+
+My Pronouns: She/Her 💃
+
+A goal: learn, talk and write english.📚
+
+Ask me about: what you want, I don't know but together we will find the answers.😅 
+
+How to reach me: romeroagustina.dev@gmail.com 📩
+
+Fun fact: I'm nurse. While I study programmin also work on it 👩‍⚕️
+***
+🚧 This "readme" was created with little knowledge of English and a lot of google translate. Don't worry about it, I'm currently studying English. Anyway, feel free to send me corrections.
